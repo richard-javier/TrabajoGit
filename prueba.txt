@@ -1,1 +1,11 @@
-hola mundo
+# Ejemplo de suma en Python
+
+# Definimos dos números
+numero1 = 8
+numero2 = 12
+
+# Sumamos los números
+resultado = numero1 + numero2
+
+# Mostramos el resultado
+print("La suma es:", resultado)
